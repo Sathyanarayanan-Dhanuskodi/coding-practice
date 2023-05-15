@@ -1,0 +1,7 @@
+Javascript time complexity
+
+O(n)
+loops, map, filter, forEach, toString, shift, unshift, spread operator(...), splice, slice, Math.max, Math.min, sort, indexOf, includes, findIndex, reduce, substring, toLowerCase, toUpperCase, replace
+
+O(1)
+conditions , push, pop, Map(), Math.floor, ceil, trunc, round, length, charAt, delete
